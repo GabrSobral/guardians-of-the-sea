@@ -25,3 +25,10 @@ Definição das imagens do ambiente e estrutura do projeto.
 - Carlos Santana
 - Gabriel Sobral
 - Júlia Zinser
+
+
+## 05/06
+
+- Movimentação do personagem em todas as direções
+- Alocação das sprites no projeto
+- Detecção de colisão do personagem com itens no cenário
